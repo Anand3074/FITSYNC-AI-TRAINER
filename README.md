@@ -21,8 +21,8 @@ NumPy: NumPy is typically already installed with Python.
 CVZone: Install CVZone using pip install cvzone.
 Installation:
 
-Clone this repository: git clone https://github.com/your-username/your-repo-name.git
-Navigate to the repository directory: cd your-repo-name
+Clone this repository: git clone https://github.com/Anand3074/exercise_intensity_Fitsync.git
+Navigate to the repository directory: cd exercise_intensity_Fitsync
 Install the required packages: pip install -r requirements.txt
 Usage:
 
