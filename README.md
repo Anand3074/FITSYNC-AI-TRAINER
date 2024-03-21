@@ -55,6 +55,5 @@ The project leverages CVZone's pose estimation capabilities for effective body t
 Real-time feedback and insights help users improve their workouts and yoga practice.
 The code is well-structured and commented for easy understanding and modification.
 
-Anand3074/Anand3074 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 
